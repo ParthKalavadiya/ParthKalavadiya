@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParthKalavadiya
-- 👀 I’m interested in Azure, Security and compliance
-- 🌱 I’m currently learning to Architect Azure solutions
+- 👀 I’m interested in Cybersecurity and Cloud security Operations!
+- 🌱 I’m currently learning to Implement security framework for legacy infrastructure OT and IT systems!
 - 💞️ I’m looking to collaborate on Security, vulnerability and compliance management
 - 📫 How to reach me ... parth.kalavadiya@yahoo.com
 
